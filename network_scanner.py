@@ -1,6 +1,6 @@
 #!usr/bin/env python
+#run it in Python 3!
 
-#import scapy.all as scapy
 from scapy.layers import all as scapy
 
 
